@@ -8,4 +8,4 @@ html ve css ile yazılmıştır
 
 <h2> Ekran Görüntüsü</h2>
 
-![](udemid-proje-1.gif)
+![](udemig-proje-1.gif)
